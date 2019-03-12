@@ -1,4 +1,4 @@
-# p5-euler
+# p6-euler
 ProjectEuler.net Problem 6
 
 The sum of the squares of the first ten natural numbers is,
